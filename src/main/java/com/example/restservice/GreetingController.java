@@ -22,6 +22,6 @@ public class GreetingController {
 // GreetingController es la clase que se encarga de definir los metodos que responden a la llamada a la api
 // estos metodos tienen la anotation @GetMapping y dentro la url de la llamada que responden
 // esta funcion retorna un nuevo objeto Greetings cuyos parametros son controlados por las variables
-// de la clase GreetingController
+// de la clase GreetingController askdjasd
 
 // para convertir  a json spring-boot utliza la clase MappingJackson2HttpMessageConverter 
